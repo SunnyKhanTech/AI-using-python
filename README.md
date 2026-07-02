@@ -1,2 +1,2 @@
 # AI-using-python
-Professional AI using Python practice repository containing structured projects, coding exercises, machine learning implementations, data preprocessing techniques, visualization examples, and practical solutions for real-world AI applications.
+AI using Python Practice Projects is a structured repository dedicated to learning and implementing Artificial Intelligence concepts with Python. It contains hands-on projects, Python programming exercises, machine learning models, data preprocessing, data visualization, and practical AI applications. The goal is to strengthen problem-solving skills and build a solid foundation in AI through real-world implementations and continuous practice.
